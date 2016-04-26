@@ -1,2 +1,2 @@
 # julio_training
-My training stuff
+This is my first repository in Github, this is for training purposes.
